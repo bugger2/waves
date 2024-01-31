@@ -1,0 +1,3 @@
+* Simple, Customizable Audio Waves
+
+Written in Rust, using GTK for a fast, safe, and appealing experience
